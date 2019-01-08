@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>My Siri</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+<meta http-equiv="cache-control" content="max-age=2592000, public" />
+<meta name="keywords" content="nattapat,kummoon,design,webmaster" />
+<meta name="description" content="ยินดีตอนรับ นะ" />
+<link type="text/css" rel="stylesheet" href="rsp61s.css">
+<style>
+.m_min350{width:350px;float:left}
+</style>
+<script type="text/javascript">
+function menu(){document.getElementsByClassName("topnav")[0].classList.toggle("responsive");}
+</script>
+</head><body id="main">
+<table class="topbar"><tr><td 
+style="font-family:Font;font-size:50px;color:red;
+/*text-align:left;*/ vertical-align:top;margin:0px 0px 0px 0px;">
+M &nbsp; y &nbsp;&nbsp;&nbsp; S &nbsp; i &nbsp; r &nbsp; i
+</td></tr></table>
+<table id="bar_topnav"><tr><td>
+<ul class="topnav">
+<li><a href="index.html" class="active">Home</a></li>
+<li><a href="projiect.htm">Projiect</a></li>
+<li><a href="mylife.htm">MyLife</a></li>
+<li><a href="movicdulble9.htm">MovicDulble9</a></li>
+<li><a href="musicdulble9.htm">MusicDulble9</a></li>
+<li><a href="http://nattapat006.github.io/mycool/">Github.io</a></li>
+<li><a href="https://thaiall.github.io/tech100/training61.htm">TEAM.</a></li>
+
+<li class="icon"><a href="javascript:void(0);" onclick="menu()">MENU</a></li>
+</ul>
+</td></tr></table>
+<fieldset class="m_still"><legend><b>Mr.Nattapat Kummoon 6008111006</b></legend>
+<table style="width:100px;float:left;" class="m_hidden"><tr><td valign="top">
+<a href="http://www.thaiall.com/me"><img src="non.jpg" border="0" width="100" /></a>
+</td></tr></table>
+<table class="m_min300"><tr><td valign="top">
+<p style="font-family:x;font-size:20px;font-weight:bold;"><b>สวัสดี นครน่าน</b> 
+น่านเป็นเมืองโบราณเมืองหนึ่ง เดิมชื่อ เมืองน่าน หรือ เมืองนันทบุรี สร้างขึ้นประมาณปี พ.ศ.1911 สำหรับประวัติการสร้างเมืองมีความเกี่ยวข้องกับกับตำนานเมืองวรนคร ซึ่ง กล่าวไว้ว่า ประมาณต้น พ.ศ.1800 พญาภูคา เจ้าเมืองย่างมีราชบุตร บุญธรรมอยู่ 2 องค์ นามว่า ขุนนุ่น และ ขุนฟอง พญาภูคาได้สร้างเมืองใหม่ ขนานนามเมืองนี้ว่า “ วรนคร ” สถาปนาให้ขุนฟอง เป็นเจ้าผู้ครองเมือง ต่อจากขุนฟองได้มีเจ้าผู้ปกครองนครสืบต่อมาเรื่อยๆ จนถึงพญาการเมือง ในสมัยนั้นเมืองวรนครตกเป็นเมืองขึ้นของกรุงสุโขทัย ต่อมาได้อพยพผู้คนมาสร้างเมืองใหม่ เสร็จประมาณ พ.ศ.1902 และขนานนามเมืองนี้ว่า “ เมืองภูเพียงแช่แห้ง ” หรือเวียงแช่แห้ง พญาการเมืองครองเมืองได้ 5 ปีก็ถึงแก่พิราลัย พญาผากองบุตรจึงสืบต่อครองเมืองแทน 6 ปีให้หลังพญาผากองได้พิจารณา ทางฝั่งแม่น้ำทางตะวันตก (บริเวณบ้านห้วยไค้) มีความอุดมสมบูรณ์ จึงไปสร้างเมืองใหม่ที่นั้น ในปี พ.ศ. 1911 เดิมเมืองน่านก็มีคนเรียกว่า เมืองนันทบุรีบ้าง แต่ตามหลักศิลาจารึกในสมัยพ่อขุนรามคำแหง มหาราชเรียกว่า “ เมืองน่าน ” มีการสันนิษฐานว่า คงเพี้ยนมาจากคำว่า น่าง หรือนางเจียงในภาษาจีน ซึ่งแปลว่าทิศใต้ แต่อย่างไรชาวเมืองน่านก็ยังเรียกว่าตามเดิมว่า “ เมืองน่าน ”
+
+        มาถึงสมัยที่อาณาจักรล้านนารุ่งเรือง ขึ้น เชียงใหม่เป็นราชธานีราวปี พ.ศ. 2004 เมืองน่านก็ขึ้นต่อเชียงใหม่และรวมเป็นอาณาจักรล้านนา จนอาณาจักรล้านนาได้ตกเป็นเมืองขึ้น ของพม่ารวมถึงน่านด้วย ใน พ.ศ.2099 ถึง พ.ศ.2317 เมืองเชียงใหม่เอาชนะพม่าได้และรวมเมือง ต่างๆ รวมถึงเมืองน่านเป็นอาณาจักรล้านนา ในปี พ.ศ.2352 อาณาจักรล้านนาถูกผนวกเข้ากับ อาณาจักรไทย เมืองน่านถูกแบ่งออกจากล้านนา มีฐานะเป็นเมืองประเทศราช เจ้าเมืองขึ้นตรงกับกรุงรัตนโกสินทร์เรื่อยมา
+
+        ในรัชกาลที่ 2 เมืองน่านนั้นถูกแม่น้ำน่านท่วมตัวเมืองจนได้รับความเสียหายอย่างมาก พญาสุมนเทวราช เจ้าครองนครน่านในสมัยนั้นได้อพยพชาวเมืองไปสร้างเมืองใหม่บนที่ดอน เพื่อกันน้ำท่วม อยู่ที่นั้นนาน 36 ปี จนปลายรัชกาลที่ 4 แม่น้ำน่าน ได้เปลี่ยนเส้นทางห่างไปมาก เจ้าอนันตวรฤทธิเดชเจ้าครองเมืองน่าน ได้ขอพระบรมราชานุญาตจากสมเด็จพระจอมเกล้าเจ้าอยู่หัว ย้ายเมืองมาตั้ง ณ ที่เดิม ได้มีการซ่อมแซมเมืองเก่าที่ทิ้งร้างไปให้กลับคืนมา แล้วสร้างกำแพงเมืองขึ้นใหม่ก่อด้วยอิฐถือปูน ในปี พ.ศ.2400 ซึ่งยังปรากฏให้เห็นในปัจจุบัน ตลอดมาจนถึงเจ้าครองนครน่านคนสุดท้าย ซึ่งตรงกับรัชกาลที่ 6 ต่อถึง รัชกาลที่ 7 เมื่อมีการเปลี่ยนแปลงการปกครองในปี พ.ศ.2475 รัฐบาลประกาศให้ ยกเลิกตำแหน่งผู้ปกครองเมืองต่างๆ และให้แต่ละจังหวัดขึ้นต่อกระทรวงมหาดไทย โดยตรง รวมทั้งหมดเจ้าครองนครทั้งสิ้น 64 องค์
+</p>
+</td></tr></table>
+<table class="m_min300"><tr><td valign="top">
+<a href="http://www.thaiall.com/html/responsive-web-design.jpg"><img src="nan.jpg" width="300" border="0" /></a>
+<br/><a href="https://www.google.com/search?q=%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj8-eiayZ7fAhUMQo8KHTohB54Q_AUIDygC&biw=1440&bih=763">กด ที่มารูป</a>
+</td></tr></table>
+</fieldset>
+
+
+<table 
+<td 
+<table class="m_still"><tr><td>
+<table 
+style="margin-left:auto;margin-right:auto;"><tr><td>
+<table 
+style="padding:5px 0 0 0;width:300px;height:300px;background-color:#ddffff;
+float:left;"><tr><td style="vertical-align:top;">
+<span style="font-family:sawasdee;font-size:16px;">
+<img src="non.jpg"
+border="0" width="150" align=left
+style="margin:10px;" />
+<p style="font-family:x;font-size:13px;font-weight:bold;"><b>ข้อมูลของผม</b>
+ผม ชื่อนนท์ หรือฉายาในสมัยมัธยมเขาเรียกกันว่า ไอ่ลิง ห่า! ห่า! ผมเป็นคนเรียนไม่ค่อยเก่ง และส่วนใหญ่ผมมักจะชอบทำกิจกรรม ไอ่ที่เขาเรียกๆกันว่าเด็กกิจกรรมนั้นเอง
+จนมาปัจจบัน ผมอยู่มหาลัย ไอ่คำว่ามหาลัยนี้แหละที่ทำให้ชีวิตผมเปรียมจากไอ่กระป๋อง ที่ลอกแต่การบ้าน
+</span>
+</td></tr></table>
+<table style="width:300px;height:300px;background-color:#ddffdd;
+float:left;"><tr><td>
+300
+
+</td></tr></table>
+</td></tr></table>
+</td></tr></table>
+
+<!-- footer -->
+<table class="m_hidden" style="text-align:center;background-color:black;margin-left:auto;margin-right:auto;padding:0px;border-spacing:0px;">
+<tr style="height:20px;"><td class="foot_text">
+"<b>Imagination is more important than knowledge</b>" - Albert Einstein
+</td></tr></table>
+<table class="m_still"><tr><td>
+Developed by <a href="http://www.facebook.com/ajburin">Burin Rujjanapan</a> Tel.081-992-7223
+<br/>ปรับปรุง : 10 ธันวาคม 2561
+</td></tr></table>
+</body></html>
